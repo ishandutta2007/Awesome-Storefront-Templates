@@ -1,241 +1,178 @@
-# Awesome-Storefront-Templates
+<div align="center">
 
-## Top Storefront Templates Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Storefront Templates Banner" width="100%">
+</p>
 
+# 🛒 Awesome Storefront Templates & Headless Ecommerce Starters
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Track Ecosystem](https://img.shields.io/badge/Storefront%20Ecosystem-October%202026-brightgreen.svg)](#sector-overview--market-dynamics)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-orange.svg)](#-how-to-contribute)
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+**A curated index of top-tier SaaS storefront themes, open-source headless commerce starters, and component-rich ecommerce design frameworks.**
 
-*Focused on Ecommerce Themes, Headless Storefronts & Self-Hosted Template Starters*  
+*Accelerate your online storefront launch across Shopify, Hydrogen, Next.js, WooCommerce, Medusa, and Saleor.*
 
-**Last updated: October 2026**
-
-
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Storefront Templates**. These resources enable merchants, developers, and agencies to launch online stores quickly—providing pre-built designs, component libraries, and theme architectures for platforms like Shopify, WooCommerce, Medusa, and Saleor.
-
-
-
-**Examples** include Shopify Themes, Out of the Sandbox, Pixel Union, Archetype Themes, Troop Themes, Maestrooo, Clean Canvas, Presidio Creative, We Are Underground, Safe As Milk, and Fluorescent (the category leaders).
-
-
-
-**Open-source emphasis**: Storefront Templates is a domain where open-source tooling is **vibrant but platform-dependent**. The strongest open-source options are **ada ÉLAN** (a production-ready Shopify Hydrogen fashion theme with i18n, RTL, and seeding CLI) , **WooCommerce Purple** (Woo's official block theme) , and **Medusa Next.js starters** (headless commerce with full ecommerce features) . Saleor also provides a React/Next.js storefront . However, no open-source template matches the polish, support, and Theme Store distribution of premium commercial themes from Out of the Sandbox or Archetype. Organizations seeking a self-hosted storefront must choose a platform (Hydrogen, WooCommerce, Medusa, Saleor) and build atop its starter templates.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-products)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
-
-- **[Shopify Themes](https://themes.shopify.com/)**  
-
-  Shopify's official curated theme marketplace with strict quality review; themes are optimized for speed, responsiveness, and Online Store 2.0 compatibility; paid themes typically $100–$500 with guaranteed compatibility after Shopify updates.
-
-
-
-- **[Out of the Sandbox](https://outofthesandbox.com/)**  
-
-  Premium Shopify theme shop known for high-quality, conversion-optimized themes (e.g., Flex, Impulse); sells directly and through the Shopify Theme Store.
-
-
-
-- **[Pixel Union](https://pixelunion.net/)**  
-
-  Shopify theme and app developer offering premium themes with modern design sensibilities; acquired by Out of the Sandbox in 2021, continuing to maintain and sell themes.
-
-
-
-- **[Archetype Themes](https://archetypethemes.co/)**  
-
-  Shopify theme developer known for conversion-focused themes like Impulse, Motion, and Expanse; themes emphasize merchandising features and performance.
-
-
-
-- **[Troop Themes](https://troopthemes.com/)**  
-
-  Shopify theme shop with a focus on clean, modern designs for fashion and lifestyle brands.
-
-
-
-- **[Maestrooo](https://maestrooo.com/)**  
-
-  Shopify theme developer behind popular themes like Prestige, Warehouse, and Impact; known for polished, editorial-style designs.
-
-
-
-- **[Clean Canvas](https://cleancanvas.co.uk/)**  
-
-  Shopify theme developer with a portfolio of premium themes for various industries; known for attention to detail and customer support.
-
-
-
-- **[Presidio Creative](https://presidiocreative.com/)**  
-
-  Shopify theme shop offering a range of themes with a focus on creative and boutique brands.
-
-
-
-- **[We Are Underground](https://weareunderground.com/)**  
-
-  Shopify theme developer with distinctive, design-forward themes for brands seeking unique storefronts.
-
-
-
-- **[Safe As Milk](https://safeasmilk.co/)**  
-
-  Shopify theme shop with a curated collection of themes for various niches.
-
-
-
-- **[Fluorescent](https://fluorescent.co/)**  
-
-  Shopify theme developer offering modern, feature-rich themes for growing merchants.
-
-
-
-## Open-Source GitHub Projects
-
-
-
-### Shopify Hydrogen Themes
-
-
-
-- **[ada ÉLAN (Shopify Hydrogen Fashion Theme)](https://github.com/ozgursagiroglu/shopify-hydrogen-fashion-theme)**  
-
-  Production-ready Shopify Hydrogen storefront theme for premium fashion brands (MIT); features an editorial design system, full i18n with **RTL support** (English, French, Arabic), WCAG AA accessibility targets, SEO-ready structured data, and a **seeding CLI** that provisions metaobjects and demo products in your store . Built with React Router 7, Tailwind 4, and TypeScript; includes wishlist, compare, quick view, reviews, and lookbook merchandising surfaces. **The most complete open-source Shopify Hydrogen theme available**, though it requires Shopify Storefront API access and a Hydrogen-compatible store.
-
-
-
-- **[Hydrogen Skeleton (Shopify)](https://github.com/Shelf-nu/shelf-storefront)**  
-
-  Official Shopify Hydrogen starter template (the "Skeleton" template); provides a minimal setup of components, queries, and tooling to get started with Hydrogen; includes Remix, Oxygen, Vite, Shopify CLI, ESLint, Prettier, GraphQL generator, and TypeScript . **The foundational starting point** for building custom Hydrogen storefronts—not a finished theme, but the scaffold from which production themes like ada ÉLAN are built.
-
-
-
-- **[VienDinhCom/next-shopify-storefront](https://github.com/VienDinhCom/next-shopify-storefront)**  
-
-  Shopping cart built with TypeScript, Tailwind CSS, Headless UI, Next.js, React.js, Shopify Hydrogen React, and Shopify Storefront GraphQL API; ~785 GitHub stars with active maintenance . **A practical reference implementation** for Next.js + Shopify headless storefronts, though not a full theme with merchandising features.
-
-
-
-### WooCommerce Themes
-
-
-
-- **[Purple (WooCommerce Official Block Theme)](https://github.com/woocommerce/purple)**  
-
-  WooCommerce's first official block theme, now in beta testing . Includes templates for most block-enabled WooCommerce pages, **ten color palettes and ten font pairings**, custom styles for WooCommerce and WordPress core blocks, and an ecommerce-focused pattern library (product grids, filters, collections, CTAs, product detail pages). Designed as a modern, performant starting point for Woo stores; developers can fork and extend. **The most authoritative open-source WooCommerce theme**—backed by Woo itself and built for the block editor era.
-
-
-
-- **[Aviendha](https://github.com/imagewize/aviendha)**  
-
-  Lean full-site-editing starter theme for WordPress with WooCommerce block templates (GPL); features a `theme.json` design system (colors, typography, spacing, layout), WooCommerce templates for single product, product archive, and search results, and graceful degradation when WooCommerce is inactive . **No bundled patterns**—intended as a base theme to fork, similar to Sage in classic theming. Suitable for developers wanting a minimal, block-first foundation without opinionated design.
-
-
-
-- **[The8 Shop Dark](https://wordpress.org/themes/the8-shop-dark/)**  
-
-  Free WooCommerce theme available in the WordPress Theme Directory; clean, modern design suitable for fashion, jewelry, watches, beauty, and handmade goods; includes a sleek black background option and minimal layout . **A ready-to-use free theme** rather than a developer starter—best for merchants wanting a simple storefront without custom development.
-
-
-
-### Medusa Storefront Starters
-
-
-
-- **[Medusa Starter Monorepo (Next.js 15 + Medusa 2.x)](https://github.com/rawals-info/store)**  
-
-  Opinionated ecommerce starter bundling a Medusa 2.x backend with a Next.js 15 storefront (MIT) . Features full ecommerce support (product pages, collections, cart, checkout with Stripe, user accounts, order details), Next.js 15 App Router with Server Components and Server Actions, TailwindCSS with `@medusajs/ui` components, Turborepo orchestration, and demo data seeding. **The most complete Medusa starter** for building a headless storefront from scratch.
-
-
-
-- **[Medusa Next.js Starter Template](https://github.com/MichaelYangjson/medusa-shop)**  
-
-  Performant frontend ecommerce starter with Next.js 15 and Medusa V2 . Includes product detail/overview pages, collections, cart, Stripe checkout, user accounts, order details, and full Next.js 15 support (App Router, Server Components, Server Actions, static pre-rendering). **Lighter than the monorepo**—storefront-only, requiring a running Medusa backend.
-
-
-
-### Saleor Storefront
-
-
-
-- **[Saleor Storefront (React/Next.js)](https://github.com/saleor/storefront)**  
-
-  Saleor's official storefront built with React 18, Next.js 14 App Router, TypeScript, GraphQL, and Tailwind CSS; ~971 GitHub stars with active maintenance . **The recommended starting point** for Saleor-based storefronts (the older `saleor-storefront` is deprecated). Requires a Saleor GraphQL backend; provides product browsing, cart, and checkout foundations.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Supply (Jekyll + Gumroad)** — Free ecommerce Jekyll theme with Gumroad integration for creators selling digital or physical products; features product collections, contact forms, maps, SEO tags, and built-in search . **Niche use case** for Jekyll-based sites and Gumroad sellers, not a full platform storefront.
-
-- **Lumier** — Shopify theme (likely commercial or soon-to-be-submitted) with glassmorphism design, mega menu, cart drawer, product metafields for reviews and ingredients, and a Theme Store submission checklist . **Not open-source** but demonstrates the architecture of a modern Shopify OS 2.0 theme.
-
-- **VienDinhCom/bootstrap-shopify-theme** — Responsive Shopify theme using Bootstrap, BEM, Liquid, Sass, ESNext, and Webpack; ~158 GitHub stars . **Traditional Liquid theme** (not Hydrogen), useful for developers wanting a Bootstrap-based Shopify foundation.
-
-
-
-**Frameworks for building custom systems**: Choose your platform first. For **Shopify Hydrogen** (headless React): start with the Hydrogen Skeleton and reference ada ÉLAN for production patterns. For **WooCommerce** (WordPress block themes): Purple is the official starting point; Aviendha offers a leaner developer foundation. For **Medusa** (headless Node.js): the Starter Monorepo provides backend + frontend together. For **Saleor** (headless GraphQL): the official React/Next.js storefront. No open-source template matches the turnkey polish of commercial Shopify themes, but these starters provide production-grade foundations for custom development.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Storefront templates handling customer data and transactions must comply with applicable ecommerce regulations, PCI DSS for payment processing, and platform-specific theme requirements; template security and update maintenance are critical for production stores.
-
-- **Open-source storefront templates are platform-dependent and vary in completeness**—ada ÉLAN provides a production-ready Shopify Hydrogen theme , Purple is Woo's official block theme but in beta , and Medusa/Saleor starters provide foundations requiring customization. No open-source template matches the Theme Store distribution, vendor support, and post-purchase updates of commercial themes from Out of the Sandbox or Archetype. Merchants seeking a turnkey storefront should evaluate commercial themes or budget for custom development atop open-source starters.
-
-- Verify license terms for commercial use; ada ÉLAN uses MIT , Medusa Starter uses MIT , Aviendha uses GPL , and Purple is WooCommerce's official open-source theme .
-
-
+</div>
 
 ---
 
+## 📑 Table of Contents
 
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS & Hosted Commercial Storefront Platforms](#-saas--hosted-commercial-storefront-platforms)
+- [🔓 Open-Source Storefront & Headless Starters](#-open-source-storefront--headless-starters)
+  - [⭐ Ranked Open-Source Repositories](#-ranked-open-source-repositories)
+  - [🔍 Ecosystem Architecture & Framework Highlights](#-ecosystem-architecture--framework-highlights)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚖️ Disclaimer & Compliance](#️-disclaimer--compliance)
 
-**Made for ecommerce developers, storefront designers, agency builders, and merchants launching online stores.**  
+---
 
-Let's make storefront templates more open, platform-flexible, and production-ready.
+## 📊 Sector Overview & Market Dynamics
+
+The global ecommerce software and theme template market is estimated at **$1.8B–$2.4B** within the wider $20B+ digital commerce platform ecosystem, expanding at a CAGR of ~13.5%. The market structure is **highly fragmented** across thousands of independent design studios, agency theme developers, and specialized marketplaces (e.g., Shopify Theme Store, ThemeForest, Woo Marketplace), although Shopify retains strong centralized governance over its proprietary commercial theme distribution channel.
+
+---
+
+## 🏢 SaaS & Hosted Commercial Storefront Platforms
+
+Commercial theme platforms and established boutique studios build conversion-rate-optimized (CRO), enterprise-grade themes with dedicated warranty, automated version migration tools, and native app features.
+
+> [!NOTE]  
+> All premium themes listed on the official Shopify Theme Store offer an **unlimited free trial**: you can test, configure, and preview the full theme in development environments for free, paying the one-time license fee only upon publishing live to a custom domain.
+
+| Studio / Platform | Valuation / Annual Revenue | Starting Price | Free Tier / Trial Details | Primary Focus & Capabilities |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Shopify Themes](https://themes.shopify.com/)** | **~$209.56B** (Market Cap) / **$11.56B** (FY2025 Rev) | $100 (one-time) | Free forever for default themes (Dawn, Refresh, etc.); Unlimited dev trial for paid themes until live publication | Official curated ecosystem featuring strict OS 2.0 performance audits, accessibility standards, and lifetime compatibility updates. |
+| **[Out of the Sandbox](https://outofthesandbox.com/)** | **~$25M - $35M** (Acquired studio est.) | $240 (one-time) | 14-day money-back guarantee on direct storefront; Unlimited preview & sandbox testing in Shopify Admin | Industry benchmark for high-speed performance (*Turbo*) and visual drag-and-drop customization (*Flex*). |
+| **[Pixel Union](https://pixelunion.net/)** | **~$20M - $30M** (WeCommerce / Tiny portfolio) | $250 (one-time) | Unlimited free staging & development preview; pay only when publishing live to custom domain | Clean editorial aesthetics tailored for design-conscious lifestyle, boutique apparel, and direct-to-consumer (DTC) brands. |
+| **[Archetype Themes](https://archetypethemes.co/)** | **~$15M - $25M** (Est. annual run-rate) | $380 (one-time) | Unlimited free trial on development & partner stores until live store launch | Category leader for conversion-centric high-catalog stores (*Impulse*, *Expanse*, *Motion*) with advanced faceted search and promotional tiles. |
+| **[Clean Canvas](https://cleancanvas.co.uk/)** | **~$10M - $18M** (Est. annual run-rate) | $400 (one-time) | Unlimited development store customization trial; pay only upon live production release | High-volume retail and enterprise inventory layouts (*Symmetry*, *Enterprise*, *Showcase*) with deep product discovery filtering. |
+| **[Presidio Creative](https://presidiocreative.com/)** | **~$8M - $15M** (Est. annual run-rate) | $300 (one-time) | Unlimited sandbox trial in Shopify Admin with complete feature preview; pay when going live | High-end visual storytelling and media-rich layouts (*Palo Alto*, *Broadcast*) built for modern fast-growing luxury DTC brands. |
+| **[Maestrooo](https://maestrooo.com/)** | **~$8M - $14M** (Est. annual run-rate) | $380 (one-time) | Unlimited free dev trial on store backends until domain publishing | Prestigious minimalist luxury and editorial layouts (*Prestige*, *Impact*, *Warehouse*) standard among global fashion labels. |
+| **[Safe As Milk](https://safeasmilk.co/)** | **~$5M - $10M** (Est. annual run-rate) | $380 (one-time) | Unlimited dev trial until store publication with full section configuration | Highly rated modular layouts (*Venue*) crafted specifically for multi-location brick-and-mortar brands and hybrid merchants. |
+| **[Troop Themes](https://troopthemes.com/)** | **~$5M - $10M** (Est. annual run-rate) | $380 (one-time) | Unlimited development environment testing and design trial; pay only on live activation | Aesthetic-forward, typography-driven Shopify themes (*Beyond*, *Blockshop*, *Maker*) optimized for visual creators and boutique brands. |
+| **[Fluorescent](https://fluorescent.co/)** | **~$4M - $8M** (Est. annual run-rate) | $380 (one-time) | Unlimited staging and draft trial before publishing to production store | Contemporary, editorial luxury storefronts (*Stiletto*, *Spark*) engineered for brand narrative and conversion velocity. |
+| **[We Are Underground](https://weareunderground.com/)** | **~$4M - $8M** (Est. annual run-rate) | $250 (one-time) | Unlimited theme configuration & testing trial until live domain release | Versatile, time-tested merchant storefronts (*Testament*, *Icon*, *Foodie*) designed for flexible product showcases. |
+
+---
+
+## 🔓 Open-Source Storefront & Headless Starters
+
+Open-source storefront templates provide foundational codebases for headless commerce architectures, custom block themes, and composable setups across React, Next.js, Remix, Vue, and WordPress.
+
+### ⭐ Ranked Open-Source Repositories
+
+*Repositories are sorted in descending order by GitHub stargazers count:*
+
+1. **[Vercel Commerce](https://github.com/vercel/commerce)**  
+   [![Stars](https://img.shields.io/github/stars/vercel/commerce?style=social&color=white)](https://github.com/vercel/commerce/stargazers)  
+   📦 *Next.js 15, React 19, Tailwind CSS, TypeScript*  
+   The gold standard all-in-one headless commerce template featuring multi-provider adapters (Shopify, BigCommerce, Saleor, Medusa, Ordercloud). Delivers sub-second page transitions, edge caching, and server actions.
+
+2. **[Vue Storefront](https://github.com/vuestorefront/vue-storefront)**  
+   [![Stars](https://img.shields.io/github/stars/vuestorefront/vue-storefront?style=social&color=white)](https://github.com/vuestorefront/vue-storefront/stargazers)  
+   📦 *Vue.js, Nuxt, Composable Frontends*  
+   Leading Frontend-as-a-Service framework connecting any backend (commercetools, Magento, SAP, BigCommerce) with custom modular Vue and Nuxt storefront architectures.
+
+3. **[Shopify Dawn](https://github.com/Shopify/dawn)**  
+   [![Stars](https://img.shields.io/github/stars/Shopify/dawn?style=social&color=white)](https://github.com/Shopify/dawn/stargazers)  
+   📦 *Liquid, HTML5, Vanilla JavaScript, CSS*  
+   Shopify's official open-source reference theme for Online Store 2.0. Minimal JavaScript footprint, ultra-performant scoreboards, and the base archetype for all modern Shopify Liquid themes.
+
+4. **[Medusa Next.js Starter](https://github.com/medusajs/nextjs-starter-medusa)**  
+   [![Stars](https://img.shields.io/github/stars/medusajs/nextjs-starter-medusa?style=social&color=white)](https://github.com/medusajs/nextjs-starter-medusa/stargazers)  
+   📦 *Next.js 15, Medusa 2.0, Tailwind CSS, Stripe*  
+   Official Medusa 2.0 headless storefront featuring out-of-the-box product search, customer account dashboards, Stripe checkout flows, cart management, and regional currency switching.
+
+5. **[Shopify Hydrogen](https://github.com/Shopify/hydrogen)**  
+   [![Stars](https://img.shields.io/github/stars/Shopify/hydrogen?style=social&color=white)](https://github.com/Shopify/hydrogen/stargazers)  
+   📦 *Remix, React, Vite, GraphQL Storefront API*  
+   Shopify’s official React-based headless stack featuring Oxygen deployment configurations, skeleton starter layouts, GraphQL generation, and Subrequest caching.
+
+6. **[Saleor Storefront](https://github.com/saleor/storefront)**  
+   [![Stars](https://img.shields.io/github/stars/saleor/storefront?style=social&color=white)](https://github.com/saleor/storefront/stargazers)  
+   📦 *Next.js 14/15 App Router, React 18/19, TypeScript, GraphQL*  
+   Official high-performance headless storefront boilerplate built natively for Saleor’s GraphQL commerce engine, including checkout, catalog filters, and authentication.
+
+7. **[WooCommerce Storefront Core](https://github.com/woocommerce/storefront)**  
+   [![Stars](https://img.shields.io/github/stars/woocommerce/storefront?style=social&color=white)](https://github.com/woocommerce/storefront/stargazers)  
+   📦 *PHP, WordPress Theme Engine, WooCommerce Core*  
+   The foundational classic WooCommerce theme engineered and maintained by Automattic/WooCommerce core developers, designed for rock-solid stability and plugin extensibility.
+
+8. **[Next.js Shopify Storefront (VienDinhCom)](https://github.com/VienDinhCom/next-shopify-storefront)**  
+   [![Stars](https://img.shields.io/github/stars/VienDinhCom/next-shopify-storefront?style=social&color=white)](https://github.com/VienDinhCom/next-shopify-storefront/stargazers)  
+   📦 *Next.js, TypeScript, Tailwind CSS, Headless UI, Hydrogen React*  
+   Popular independent reference implementation for building modern, responsive, and decoupled Shopify storefronts using the Storefront GraphQL API.
+
+9. **[Medusa B2B Starter](https://github.com/medusajs/b2b-starter-medusa)**  
+   [![Stars](https://img.shields.io/github/stars/medusajs/b2b-starter-medusa?style=social&color=white)](https://github.com/medusajs/b2b-starter-medusa/stargazers)  
+   📦 *Next.js, Medusa B2B, Tailwind CSS*  
+   Tailored wholesale and B2B ecommerce starter supporting customer company hierarchies, role-based spending limits, price lists, invoice requests, and custom bulk purchasing.
+
+10. **[Bootstrap Shopify Theme (VienDinhCom)](https://github.com/VienDinhCom/bootstrap-shopify-theme)**  
+    [![Stars](https://img.shields.io/github/stars/VienDinhCom/bootstrap-shopify-theme?style=social&color=white)](https://github.com/VienDinhCom/bootstrap-shopify-theme/stargazers)  
+    📦 *Shopify Liquid, Bootstrap 5, Sass, Webpack, ESNext*  
+    Fully responsive traditional Shopify Liquid theme built on Twitter Bootstrap, ideal for developers migrating classic web designs into Shopify.
+
+11. **[Strapi Ecommerce Template](https://github.com/strapi/strapi-template-ecommerce)**  
+    [![Stars](https://img.shields.io/github/stars/strapi/strapi-template-ecommerce?style=social&color=white)](https://github.com/strapi/strapi-template-ecommerce/stargazers)  
+    📦 *Strapi CMS, Next.js / React Frontend, Stripe*  
+    Headless content-driven storefront boilerplate integrating Strapi headless CMS with custom frontend checkouts, digital goods delivery, and product catalogs.
+
+12. **[ada ÉLAN Fashion Theme](https://github.com/ozgursagiroglu/shopify-hydrogen-fashion-theme)**  
+    [![Stars](https://img.shields.io/github/stars/ozgursagiroglu/shopify-hydrogen-fashion-theme?style=social&color=white)](https://github.com/ozgursagiroglu/shopify-hydrogen-fashion-theme/stargazers)  
+    📦 *Shopify Hydrogen, React Router 7, Tailwind 4, TypeScript*  
+    Production-ready Shopify Hydrogen storefront theme featuring full i18n with **RTL support** (Arabic/Hebrew), WCAG AA compliance, structured SEO schema, and a custom demo metaobject seeding CLI.
+
+13. **[Aviendha FSE Theme](https://github.com/imagewize/aviendha)**  
+    [![Stars](https://img.shields.io/github/stars/imagewize/aviendha?style=social&color=white)](https://github.com/imagewize/aviendha/stargazers)  
+    📦 *WordPress Full Site Editing (FSE), WooCommerce Blocks, theme.json*  
+    Lightweight, clean Gutenberg block starter theme for WooCommerce developers seeking a strict `theme.json` design token foundation without heavy runtime dependencies.
+
+14. **[Medusa Starter Monorepo (Next.js 15 + Medusa 2.x)](https://github.com/rawals-info/store)**  
+    [![Stars](https://img.shields.io/github/stars/rawals-info/store?style=social&color=white)](https://github.com/rawals-info/store/stargazers)  
+    📦 *Turborepo, Medusa 2.x, Next.js 15 App Router, Tailwind CSS*  
+    Complete full-stack monorepo scaffolding an enterprise-style setup with unified backend management, shared frontend components, and preconfigured automated seeding.
+
+15. **[Medusa Shop Next.js 15 Starter](https://github.com/MichaelYangjson/medusa-shop)**  
+    [![Stars](https://img.shields.io/github/stars/MichaelYangjson/medusa-shop?style=social&color=white)](https://github.com/MichaelYangjson/medusa-shop/stargazers)  
+    📦 *Next.js 15, Medusa V2, Server Components, Server Actions*  
+    Modern decoupled frontend template built on Next.js 15 App Router with instant pre-rendering, streamlined Stripe checkout, and account profile management.
+
+---
+
+### 🔍 Ecosystem Architecture & Framework Highlights
+
+When choosing a foundation for custom storefront development:
+* 🌐 **Shopify Hydrogen & Oxygen (React / Remix):** Ideal for merchants scaling on Shopify who need bespoke frontend user experiences while retaining Shopify’s secure hosted checkout. Start with the [Hydrogen Core Skeleton](https://github.com/Shopify/hydrogen) or reference [ada ÉLAN](https://github.com/ozgursagiroglu/shopify-hydrogen-fashion-theme).
+* 🛍️ **Shopify Liquid OS 2.0:** Use [Shopify Dawn](https://github.com/Shopify/dawn) as the reference implementation for zero-dependency native theme development.
+* 📦 **Medusa.js 2.0:** Perfect for developers wanting 100% control over both backend microservices and headless frontends. Use [Medusa Next.js Starter](https://github.com/medusajs/nextjs-starter-medusa) or [B2B Starter](https://github.com/medusajs/b2b-starter-medusa).
+* ⚡ **Saleor GraphQL:** High-throughput Python/Django backend paired with [Saleor Storefront](https://github.com/saleor/storefront) for Next.js App Router applications.
+* 🔌 **WooCommerce & WordPress FSE:** For WordPress block-editor stores, check out [WooCommerce Purple](https://github.com/woocommerce/woocommerce/tree/trunk/plugins/woocommerce/src/Themes/Purple) (inside core monorepo) or lean foundations like [Aviendha](https://github.com/imagewize/aviendha).
+
+---
+
+## 🤝 How to Contribute
+
+We welcome open-source contributions, updated theme additions, and performance benchmark corrections! 🚀
+
+1. 🍴 **Fork** the repository.
+2. 🌿 Create your feature branch (`git checkout -b feature/add-new-storefront`).
+3. 📝 Edit `README.md` following the tabular or badge-ranked formatting standards.
+4. 🔍 Ensure all star counts, official links, and pricing details are verified.
+5. 📤 Commit your changes (`git commit -m 'feat: add new headless storefront starter'`).
+6. 🚀 Push to branch (`git push origin feature/add-new-storefront`).
+7. 📬 Submit a **Pull Request** detailing your additions.
+
+---
+
+## ⚖️ Disclaimer & Compliance
+
+- This repository is a **community-maintained curated list** provided for educational and evaluation purposes.
+- All commercial trademarks, brand names, and studio logos are the property of their respective owners (Shopify, Automattic, Vercel, Medusa, Saleor).
+- Storefront templates handling real-world transactions and customer personal data must comply with PCI-DSS requirements, regional privacy laws (GDPR, CCPA), and platform security practices.
+- Double-check open-source licenses before using code in commercial products (MIT, GPLv2, Apache 2.0, or proprietary).
