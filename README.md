@@ -167,7 +167,7 @@ We welcome open-source contributions, updated theme additions, and performance b
 1. 🍴 **Fork** the repository.
 2. 🌿 Create your feature branch (`git checkout -b feature/add-new-storefront`).
 3. 📝 Edit `README.md` following the tabular or badge-ranked formatting standards.
-4. 🔍 Ensure all star counts, official links, and pricing details are verified.
+4. 🔍 Ensure all Stars_Counts, official links, and pricing details are verified.
 5. 📤 Commit your changes (`git commit -m 'feat: add new headless storefront starter'`).
 6. 🚀 Push to branch (`git push origin feature/add-new-storefront`).
 7. 📬 Submit a **Pull Request** detailing your additions.
