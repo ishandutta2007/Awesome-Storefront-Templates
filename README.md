@@ -6,10 +6,12 @@
 
 # 🛒 Awesome Storefront Templates & Headless Ecommerce Starters
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Track Ecosystem](https://img.shields.io/badge/Storefront%20Ecosystem-October%202026-brightgreen.svg)](#sector-overview--market-dynamics)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-orange.svg)](#-how-to-contribute)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **A curated index of top-tier SaaS storefront themes, open-source headless commerce starters, and component-rich ecommerce design frameworks.**
 
@@ -27,6 +29,8 @@
   - [⭐ Ranked Open-Source Repositories](#-ranked-open-source-repositories)
   - [🔍 Ecosystem Architecture & Framework Highlights](#-ecosystem-architecture--framework-highlights)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
 - [⚖️ Disclaimer & Compliance](#️-disclaimer--compliance)
 
 ---
@@ -167,6 +171,23 @@ We welcome open-source contributions, updated theme additions, and performance b
 5. 📤 Commit your changes (`git commit -m 'feat: add new headless storefront starter'`).
 6. 🚀 Push to branch (`git push origin feature/add-new-storefront`).
 7. 📬 Submit a **Pull Request** detailing your additions.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring this curated repository! If you found this storefront resource collection helpful, please consider supporting the project:
+
+- ⭐ **Star** this repository to help other merchants and developers discover it.
+- 🍴 **Fork** and contribute additions or updates.
+- 📢 **Share** it with your developer networks, ecommerce agencies, and fellow builders.
+- ☕ **Buy me a coffee / Sponsor**: If this project helped save you hours of development or evaluation time, you can support ongoing maintenance via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.com/#ishandutta2007/Awesome-Storefront-Templates&Date)](https://star-history.com/#ishandutta2007/Awesome-Storefront-Templates&Date)
 
 ---
 
